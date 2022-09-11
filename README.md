@@ -1,2 +1,2 @@
 # Myproject
-Portafolio hecho en css, html y javascript
+Proyecto de ventas de COMPUTADORAS hecho en css, html y javascript
